@@ -48,6 +48,7 @@ The hardware structure is illustrated below:
 | Aluminum Standoffs Pillars | 40 mm * 3 mm                  | 4      |                                                              |
 | Aluminum Standoffs Pillars | 30 mm * 3 mm                  | 4      | (Or 8 pcs 40 mm * 3mm)                                       |
 | Motor                      | T-Motor F90 KV1300            | 4      | [T-MOTORHOBBY F90 2806.5 Long Range Motor - 1300KV/1500KV/1950KV_Motor_F Series Racing Power_FPV Drone Parts_Tmotorhobby Store-Tmotorobby drone motor,ESC,Propeller](https://tmotorhobby.com/goods.php?id=1057) |
+| Propeller                      | HQ 7x4x3         | 4      | [HQProp 7X4X3 Light Grey](https://www.hqprop.com/hq-durable-prop-7x4x3-light-grey-2cw2ccw-poly-carbonate-popo-p0133.html)|
 | ESC                        | T-Motor F60A mini 4 in 1      | 1      | [TMOTOR F60A MINI 20x20 4IN1 ESC for FPV Drones – T-Motor](https://shop.tmotor.com/products/f60a-mini-20x20-4in1-esc) |
 | Battery                    | DualSky 3300mAh 6S XP-3300HED | 1      | [cn.dualsky.com/Xpower_LiPos/decc7a90-6c8f-5c0d-d0d4-c8eaced6f5d2.shtml](http://cn.dualsky.com/Xpower_LiPos/decc7a90-6c8f-5c0d-d0d4-c8eaced6f5d2.shtml) |
 | Flight Controller          | NxtPx4                        | 1      | [NxtPX4v2(micoair.cn)](https://micoair.cn/docs/NxtPX4v2-fei-kong-yong-hu-shou-ce) |
