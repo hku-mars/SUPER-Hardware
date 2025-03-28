@@ -61,7 +61,7 @@ The hardware structure is illustrated below:
 - **Battery**: Any 6S battery can be used, not necessarily the DualSky model listed.
 - **Flight Controller**: Any PX4-compatible flight controller can substitute for the NxtPx4, as the MPC controller may be open-sourced later this year, and our development is based on PX4.
 - **Power module for NUC**: We are currently using a customized DC-DC buck converter designed by a labmate, but we do not have plans to make it open-source at this time. However, you may find the following open-source option useful: [NUC Battery Power - Open Source Hardware Platform.](https://oshwhub.com/PancLAN/buck_for_nuc). Please note that this open-source solution is not very stable, which is why we are making some modifications. However, these updates are not being handled by me, so I don't have further details. We may provide updates in the future.
-- 
+
 ## Acknowledgments
 
 - Special thanks to [NxtPx4](https://github.com/HKUST-Aerial-Robotics/Nxt-FC) for providing an excellent mini flight controller.
