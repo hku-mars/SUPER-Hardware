@@ -60,6 +60,7 @@ The hardware structure is illustrated below:
 - **RC and Receiver**: The listed models (Radiolink AT9S and R12DSM) are what we currently use, but alternatives are acceptable.
 - **Battery**: Any 6S battery can be used, not necessarily the DualSky model listed.
 - **Flight Controller**: Any PX4-compatible flight controller can substitute for the NxtPx4, as the MPC controller may be open-sourced later this year, and our development is based on PX4.
+- **Power module for NUC**: We currently use a customized DC-DC buck converter designed by a labmate, but we currently don't have plans to make it open-source. However, you might find the following open-source option useful: https://oshwhub.com/PancLAN/buck_for_nuc
 
 ## Acknowledgments
 
