@@ -54,13 +54,20 @@ The hardware structure is illustrated below:
 | Flight Controller          | NxtPx4                        | 1      | [NxtPX4v2(micoair.cn)](https://micoair.cn/docs/NxtPX4v2-fei-kong-yong-hu-shou-ce) |
 | RC                         | Radiolink AT9S                | 1      | [AT9S PRO 12 channels transmitter for racing drone, fixed wing, helicopter, glider, cars and boats (radiolink.com.cn)](https://www.radiolink.com.cn/at9spro) |
 | Reveiver                   | Radiolink R12DSM              | 1      | [12 channels MINI receiver R12DSM (radiolink.com)](https://www.radiolink.com/r12dsm) |
-
+| Power Module                   | CKCS CK2416 (12 V 16 A)  | 1      | [https://e.tb.cn/h.6U3o07BuE81jHGi?tk=fopteCChcyW](https://e.tb.cn/h.6U3o07BuE81jHGi?tk=fopteCChcyW) |
 ### Notes:
 
 - **RC and Receiver**: The listed models (Radiolink AT9S and R12DSM) are what we currently use, but alternatives are acceptable.
+
 - **Battery**: Any 6S battery can be used, not necessarily the DualSky model listed.
+
 - **Flight Controller**: Any PX4-compatible flight controller can substitute for the NxtPx4, as the MPC controller may be open-sourced later this year, and our development is based on PX4.
+
 - **Power module for NUC**: We are currently using a customized DC-DC buck converter designed by a labmate, but we do not have plans to make it open-source at this time. However, you may find the following open-source option useful: [NUC Battery Power - Open Source Hardware Platform.](https://oshwhub.com/PancLAN/buck_for_nuc). Please note that this open-source solution is not very stable, which is why we are making some modifications. However, these updates are not being handled by me, so I don't have further details. We may provide updates in the future.
+
+  **UPDATE 24/04/04: ** I have found an alternative for NUC 13 or other types that supports 12 v inputs, listed in the table above.
+
+  <img src="./misc/power_module.jpg" style="zoom:15%;" />
 
 ## Acknowledgments
 
